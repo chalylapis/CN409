@@ -7,7 +7,7 @@
 -------------
   
 ### หัวข้อ
-- [Blender 2.8](project/Blender2.8.md)
++ [Blender 2.8](project/Blender2.8.md)
 - Modeling
 - Materials
 - Lighting
