@@ -8,9 +8,9 @@
   
 ### หัวข้อ
 + [Blender 2.8](project/Blender2.8.md)
-- Modeling
-- Materials
-- Lighting
-- Animation
-- Video editing
-- Working with Blender 2.8
+    - Modeling
+    - Materials
+    - Lighting
+    - Animation
+    - Video editing
+    - Working with Blender 2.8
