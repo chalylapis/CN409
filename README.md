@@ -6,7 +6,7 @@
 
 -------------
 ### หัวข้อ
-- [Blender 2.8](https://github.com/chalylapis/CN409/blob/master/project/Blender2.8.md)
+- [Blender 2.8](https://github.com/chalylapis/CN409/tree/master/project/Blender2.8)
 - Modeling
 - Materials
 - Lighting
