@@ -6,7 +6,7 @@
 
 -------------
 ### หัวข้อ
-- Blender 2.8
+- [Blender 2.8](https://github.com/chalylapis/CN409/blob/master/project/Blender2.8.md)
 - Modeling
 - Materials
 - Lighting
