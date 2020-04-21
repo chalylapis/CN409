@@ -7,6 +7,8 @@
 5. [Video editing](https://www.youtube.com/watch?v=GaZeoINydXU&t=75s)
 6. Final Project
 
+<br>
+
 -----------------
 
 <br>
