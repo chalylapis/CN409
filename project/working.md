@@ -8,6 +8,8 @@
 
 -----------------
 
+<br>
+
 ### Know-how
 1. Character modeling
 2. Rigging for animation
