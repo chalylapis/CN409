@@ -6,6 +6,8 @@
 4. [Animation](https://www.youtube.com/watch?v=V6YpWpyV5xQ&t=207s)
 5. [Video editing](https://www.youtube.com/watch?v=GaZeoINydXU&t=75s)
 
+-----------------
+
 ### Know-how
 1. Character modeling
 2. Rigging for animation
@@ -13,4 +15,5 @@
 4. Animate a camera on a curve
 
 <br>
+
 [back](/CN409/)
