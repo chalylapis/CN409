@@ -5,6 +5,7 @@
 3. [Lighting & Materials](https://www.youtube.com/watch?v=hlBPp0ERPyA&t=159s)
 4. [Animation](https://www.youtube.com/watch?v=V6YpWpyV5xQ&t=207s)
 5. [Video editing](https://www.youtube.com/watch?v=GaZeoINydXU&t=75s)
+6. Final Project
 
 -----------------
 
