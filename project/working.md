@@ -16,7 +16,7 @@
 ### Know-how
 1. [Character modeling](https://youtu.be/wnSytwrDG0Y)
 2. Rigging for animation
-3. Animate a camera on a curve
+3. Move Camera In Circular Way
 4. Render video with alpha transparency
 
 <br>
