@@ -1,11 +1,17 @@
 ## Working with Blender 2.8
 
-1. [Modeling](https://www.youtube.com/watch?v=EIkB1zjWgxI)
-2. [Modeling & Sculpting](https://www.youtube.com/watch?v=2CwizAYdaRc&t=35s)
-3. [Lighting & Materials](https://www.youtube.com/watch?v=hlBPp0ERPyA&t=159s)
-4. [Animation](https://www.youtube.com/watch?v=V6YpWpyV5xQ&t=207s)
-5. [Video editing](https://www.youtube.com/watch?v=GaZeoINydXU&t=75s)
-6. [Final Project](https://www.youtube.com/watch?v=QOp7FmoBatk)
+1. [Modeling](https://www.youtube.com/watch?v=EIkB1zjWgxI) <br>
+คลิป Modeling นี้เป็นการสร้างโมเดลโดนัทจากรูปทรง Torus และการปรับรูปร่างของโมเดล
+2. [Modeling & Sculpting](https://www.youtube.com/watch?v=2CwizAYdaRc&t=35s) <br>
+คลิป Modeling & Sculpting นี้มีการเพิ่ม icing ให้กับโดนัทและปรับรูปร่างโดยใช้การ Sculpting
+3. [Lighting & Materials](https://www.youtube.com/watch?v=hlBPp0ERPyA&t=159s) <br>
+คลิป Lighting & Materials เป็นการใช้แสงเงากับโหมด rendered และเพิ่ม Materials ให้โมเดลมีสีและพื้นผิวที่สวยงาม
+4. [Animation](https://www.youtube.com/watch?v=V6YpWpyV5xQ&t=207s) <br>
+คลิป Animation เป็นการใช้โหมดทำภาพเคลื่อนไหว ทำให้โมเดลเคลื่อนที่ เปลี่ยนขนาด หรือ หมุน โดยการใส่การเปลี่ยนแปลงที่แต่ละ keyframe 
+5. [Video editing](https://www.youtube.com/watch?v=GaZeoINydXU&t=75s) <br>
+คลิป Video editing เป็นตัดต่อคลิป การ trim คลิป การนำคลิปมาซ้อนกันให้มีหลายคลิปแสดงพร้อมกัน การปรับ speed ของคลิป
+6. [Final Project](https://www.youtube.com/watch?v=QOp7FmoBatk) <br>
+คลิป Final Project เป็นคลิปที่ใช้ความรู้ข้างต้นตั้งแต่คลิป 1 ถึง 5 มาสร้างเป็นโมเดลกระต่ายที่มีการเคลื่อนไหวเต้นประกอบเพลง
 
 <br>
 
